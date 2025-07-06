@@ -39,7 +39,7 @@ VS Code, Git, Postman, Insomnia, Cursor, Linux (Fedora), Docker
 | Project | Stack | Description |
 |--------|-------|-------------|
 | **EpiScope** | Django, WebSockets, Charts.js | Real-time epidemic analysis dashboard |
-| **DailyTracker** | Laravel, Vue.js, Tailwind | Tracks daily support activities, logs, and reports |
+| **DailyTracker** | Laravel, Vue.js, Tailwind | Tracks daily support activities, logs, and reports check it out [here](https://dailytracker-main-ndznrq.laravel.cloud/register)|
 | **MedForecast** | Flask, Jinja | A health prediction system that can predict health conditions based on given symptoms, check it out [here](https://medforecast.grandkojo.my/)|
 
 ---
