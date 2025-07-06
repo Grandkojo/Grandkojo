@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Ernest, and I'm a software engineer and i'm interested in everything Python & PHP!
+
+- 🔭 I’m currently working on EpiScope, an AI-driven epidemic monitoring system for analysing major epidemics in Ghana.
+-  🌱 I’m built a health prediction system that can predict health conditions based on given symptoms, check it out [here](https://medforecast.grandkojo.my/)
+- 🌱 I’m currently learning using pretrained models and fine tuning LLMs in Machine Learning
+- 👯 I’m looking to collaborate on AI powered projects:
+- 📫 How to reach me: lynxdesignsforyou@gmail.com
+- 🥳 Give me a follow on [X](https://x.com/Grandkojo)
+- ⚡ Fun fact: Laravel is the best :)
+  
 <!--
 **Grandkojo/Grandkojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
