@@ -46,10 +46,10 @@ VS Code, Git, Postman, Insomnia, Cursor, Linux (Fedora), Docker
 
 ## 📫 Connect with Me
 
-- 📧 Email: [lynxdesignsforyou@gmail.com](mailto:lynxdesignsforyou@gmail.com)
+- 📧 Email: [lynxdesignsforyou@gmail.com](mailto:essienernest.kojoowusu@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ernest-kojo-essien](https://linkedin.com/in/ernest-kojo-essien)
 - 🥳 Give me a follow on [X](https://x.com/Grandkojo)
-- 🌐 Portfolio: [Visit](https://grandkojomee-main-fonpg1.laravel.cloud/)
+- 🌐 Portfolio: [Visit](https://grandkojo.my/)
 
 ---
 
