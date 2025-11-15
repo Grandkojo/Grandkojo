@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ernest Kojo Essien
 
 Welcome to my GitHub space! I'm a passionate full-stack developer, system designer, and infrastructure tinkerer who loves turning ideas into robust, elegant solutions.
-
+I'm open to remote roles as a Software Engineer
 ---
 
 ## 🚀 About Me
